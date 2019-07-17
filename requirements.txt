@@ -1,4 +1,4 @@
-
+alabaster==0.7.12
 
 
 
@@ -14,7 +14,7 @@ backports.shutil-get-terminal-size==1.0.0
 beautifulsoup4==4.7.1
 bitarray==0.9.3
 bkcharts==0.2
-blaze==0.11.3
+
 bleach==3.1.0
 bokeh==1.2.0
 boto==2.49.0
